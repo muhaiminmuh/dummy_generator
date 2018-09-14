@@ -115,7 +115,7 @@
           </div>
           <div class="row">
             <div class="input-field col s12 m12">
-              <a class="waves-effect waves-light btn center" href="#">Generate NIK KK Now</a>
+              <a onclick="M.toast({html: '<strong>Comming Soon</strong>', classes: 'rounded, blue'})" class="waves-effect waves-light btn center" href="#">Generate NIK KK Now</a>
             </div>
           </div>
       </div>
