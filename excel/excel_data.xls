@@ -1,0 +1,173 @@
+<table id="tblData" class="responsive-table">
+          <thead>
+            <tr>
+                <th>IPv4</th>
+                <th>Mac Address</th>
+                <th>User Agent</th>
+                <th>Url</th>
+                <th>DateTime</th>
+            </tr>
+          </thead>
+          <tbody>
+            
+            <tr>
+              <td id="ipv4">28.131.110.60</td>
+              <td id="macAddress">63:43:23:29:EB:EE</td>
+              <td id="userAgent">Mozilla/5.0 (Windows 98) AppleWebKit/5360 (KHTML, like Gecko) Chrome/38.0.840.0 Mobile Safari/5360</td>
+              <td id="url">http://pfannerstill.com/</td>
+              <td id="date">2000-06-01 07:02:25 America/Bahia</td>
+            </tr>
+            
+            <tr>
+              <td id="ipv4">101.46.197.170</td>
+              <td id="macAddress">F0:4C:E5:93:86:08</td>
+              <td id="userAgent">Mozilla/5.0 (Windows; U; Windows NT 5.0) AppleWebKit/534.21.5 (KHTML, like Gecko) Version/4.0.4 Safari/534.21.5</td>
+              <td id="url">http://www.lowe.org/est-consequuntur-libero-voluptatem-accusantium-aut-expedita-voluptas.html</td>
+              <td id="date">2002-12-03 14:18:47 Australia/Brisbane</td>
+            </tr>
+            
+            <tr>
+              <td id="ipv4">174.136.230.78</td>
+              <td id="macAddress">62:06:36:2D:89:ED</td>
+              <td id="userAgent">Opera/9.39 (Windows NT 6.1; sl-SI) Presto/2.12.298 Version/10.00</td>
+              <td id="url">http://www.deckow.info/rem-voluptatem-quae-ad-et-ut</td>
+              <td id="date">2007-04-12 17:28:38 Europe/Kaliningrad</td>
+            </tr>
+            
+            <tr>
+              <td id="ipv4">246.24.90.8</td>
+              <td id="macAddress">41:A7:6E:5B:A6:29</td>
+              <td id="userAgent">Opera/9.64 (X11; Linux i686; sl-SI) Presto/2.9.220 Version/12.00</td>
+              <td id="url">https://monahan.com/laborum-iure-autem-iure.html</td>
+              <td id="date">1978-02-25 13:24:14 Australia/Sydney</td>
+            </tr>
+            
+            <tr>
+              <td id="ipv4">45.230.127.17</td>
+              <td id="macAddress">A3:45:0B:FA:78:AC</td>
+              <td id="userAgent">Opera/8.57 (Windows NT 5.2; en-US) Presto/2.9.208 Version/12.00</td>
+              <td id="url">http://www.dibbert.biz/aut-vitae-a-minima-qui-autem-voluptates-blanditiis</td>
+              <td id="date">2017-06-01 17:56:11 Europe/Vatican</td>
+            </tr>
+            
+            <tr>
+              <td id="ipv4">20.20.33.39</td>
+              <td id="macAddress">AA:4D:50:5F:0F:E7</td>
+              <td id="userAgent">Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_5_0 rv:4.0) Gecko/20150720 Firefox/36.0</td>
+              <td id="url">https://www.zemlak.com/dicta-ut-odit-doloremque-harum-expedita</td>
+              <td id="date">2011-12-09 21:43:53 America/Eirunepe</td>
+            </tr>
+            
+            <tr>
+              <td id="ipv4">82.86.131.109</td>
+              <td id="macAddress">76:49:2A:F5:67:7D</td>
+              <td id="userAgent">Opera/8.48 (X11; Linux x86_64; sl-SI) Presto/2.9.276 Version/11.00</td>
+              <td id="url">http://www.aufderhar.com/aut-recusandae-quaerat-suscipit-nisi-qui</td>
+              <td id="date">1986-02-23 19:20:37 Pacific/Bougainville</td>
+            </tr>
+            
+            <tr>
+              <td id="ipv4">247.91.91.59</td>
+              <td id="macAddress">4D:86:37:73:B2:4E</td>
+              <td id="userAgent">Mozilla/5.0 (X11; Linux x86_64; rv:5.0) Gecko/20150319 Firefox/35.0</td>
+              <td id="url">http://kassulke.info/veritatis-aut-qui-id-porro-et-eligendi-non</td>
+              <td id="date">1991-05-11 02:48:19 Pacific/Tarawa</td>
+            </tr>
+            
+            <tr>
+              <td id="ipv4">240.50.214.150</td>
+              <td id="macAddress">33:BB:93:6F:A6:33</td>
+              <td id="userAgent">Mozilla/5.0 (Windows NT 5.2; sl-SI; rv:1.9.1.20) Gecko/20170603 Firefox/36.0</td>
+              <td id="url">http://hauck.org/excepturi-qui-iure-quas-non-doloremque</td>
+              <td id="date">2005-10-12 20:59:46 Antarctica/Mawson</td>
+            </tr>
+            
+            <tr>
+              <td id="ipv4">168.26.115.98</td>
+              <td id="macAddress">31:42:D5:E3:03:87</td>
+              <td id="userAgent">Mozilla/5.0 (compatible; MSIE 5.0; Windows CE; Trident/3.0)</td>
+              <td id="url">http://conroy.com/</td>
+              <td id="date">1989-03-25 07:55:30 America/Nassau</td>
+            </tr>
+            
+            <tr>
+              <td id="ipv4">159.84.3.198</td>
+              <td id="macAddress">F0:E8:B9:3B:96:DF</td>
+              <td id="userAgent">Opera/8.82 (Windows NT 6.0; en-US) Presto/2.8.310 Version/12.00</td>
+              <td id="url">http://stehr.net/libero-nihil-vero-dolores-dolore-ducimus.html</td>
+              <td id="date">1990-02-28 07:44:11 Asia/Tashkent</td>
+            </tr>
+            
+            <tr>
+              <td id="ipv4">20.23.122.188</td>
+              <td id="macAddress">BE:FB:75:D2:D5:D5</td>
+              <td id="userAgent">Opera/8.73 (Windows CE; sl-SI) Presto/2.11.329 Version/10.00</td>
+              <td id="url">http://mills.com/</td>
+              <td id="date">2000-01-12 14:22:10 America/Miquelon</td>
+            </tr>
+            
+            <tr>
+              <td id="ipv4">64.36.26.117</td>
+              <td id="macAddress">6D:BA:35:91:2E:8D</td>
+              <td id="userAgent">Mozilla/5.0 (Windows NT 4.0) AppleWebKit/5362 (KHTML, like Gecko) Chrome/36.0.817.0 Mobile Safari/5362</td>
+              <td id="url">http://hyatt.biz/et-voluptatum-magni-temporibus-ut-quidem-veniam-distinctio-tenetur</td>
+              <td id="date">1980-11-27 04:47:34 Pacific/Guadalcanal</td>
+            </tr>
+            
+            <tr>
+              <td id="ipv4">94.110.26.155</td>
+              <td id="macAddress">99:EE:70:09:55:A1</td>
+              <td id="userAgent">Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.1)</td>
+              <td id="url">http://www.champlin.com/aliquam-nihil-et-nemo-incidunt-in-repellendus</td>
+              <td id="date">1973-10-30 14:37:52 America/Juneau</td>
+            </tr>
+            
+            <tr>
+              <td id="ipv4">181.185.22.222</td>
+              <td id="macAddress">49:54:B1:F9:EF:28</td>
+              <td id="userAgent">Opera/8.79 (Windows 95; en-US) Presto/2.8.190 Version/11.00</td>
+              <td id="url">http://www.collier.com/voluptas-impedit-consequatur-excepturi-alias-consequuntur-dolores-libero</td>
+              <td id="date">2008-08-17 08:39:26 Asia/Barnaul</td>
+            </tr>
+            
+            <tr>
+              <td id="ipv4">48.205.173.238</td>
+              <td id="macAddress">81:14:D0:D1:73:C5</td>
+              <td id="userAgent">Opera/9.88 (Windows NT 6.2; sl-SI) Presto/2.11.169 Version/10.00</td>
+              <td id="url">http://walker.com/</td>
+              <td id="date">1987-11-30 11:48:03 America/Belem</td>
+            </tr>
+            
+            <tr>
+              <td id="ipv4">64.97.124.110</td>
+              <td id="macAddress">57:63:BE:85:D5:68</td>
+              <td id="userAgent">Mozilla/5.0 (Windows 98; Win 9x 4.90) AppleWebKit/5320 (KHTML, like Gecko) Chrome/36.0.892.0 Mobile Safari/5320</td>
+              <td id="url">http://paucek.com/sit-nemo-non-et-totam</td>
+              <td id="date">1983-03-01 03:00:31 Pacific/Tahiti</td>
+            </tr>
+            
+            <tr>
+              <td id="ipv4">233.184.61.115</td>
+              <td id="macAddress">13:FC:F3:41:73:7D</td>
+              <td id="userAgent">Mozilla/5.0 (Windows; U; Windows NT 6.2) AppleWebKit/532.50.5 (KHTML, like Gecko) Version/4.0.3 Safari/532.50.5</td>
+              <td id="url">http://www.balistreri.com/similique-dignissimos-eum-eos-voluptates-velit-ad-quaerat</td>
+              <td id="date">1979-05-12 12:31:24 America/Los_Angeles</td>
+            </tr>
+            
+            <tr>
+              <td id="ipv4">177.123.164.245</td>
+              <td id="macAddress">E7:7F:AA:CB:22:66</td>
+              <td id="userAgent">Mozilla/5.0 (compatible; MSIE 6.0; Windows 95; Trident/5.0)</td>
+              <td id="url">http://champlin.com/et-aut-aliquam-et-assumenda.html</td>
+              <td id="date">1984-01-23 23:35:23 America/Fortaleza</td>
+            </tr>
+            
+            <tr>
+              <td id="ipv4">198.218.128.190</td>
+              <td id="macAddress">25:8D:FA:6E:F7:85</td>
+              <td id="userAgent">Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.2; Trident/4.1)</td>
+              <td id="url">http://hintz.com/accusantium-molestias-asperiores-ut-natus</td>
+              <td id="date">2015-09-19 23:44:24 America/Indiana/Vincennes</td>
+            </tr>
+                      </tbody>
+          </table>
